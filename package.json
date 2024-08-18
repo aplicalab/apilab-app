@@ -1,0 +1,15 @@
+{
+  "name": "apilab-app",
+  "version": "1.0.0",
+  "description": "API Lab is a app that provides a design tool for the API First development approach, from Contract First to Sandbox Try-on",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aplicalab",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "electron": "^31.4.0"
+  }
+}
